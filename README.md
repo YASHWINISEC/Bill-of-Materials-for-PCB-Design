@@ -1,4 +1,5 @@
 # Bill-of-Materials-for-PCB-Design
+
 # Aim
 
 To prepare the Bill of Material for the given circuit.
@@ -58,17 +59,10 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
-
-
-
+<img width="370" height="436" alt="image" src="https://github.com/user-attachments/assets/3a7c956b-c591-40b6-86ac-394f31ac1bb3" />
 
 # Output
-
-
-
-
+<img width="1381" height="203" alt="image" src="https://github.com/user-attachments/assets/2ff4e30b-44d2-4c77-a7cc-471472a7d220" />
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
-
-
